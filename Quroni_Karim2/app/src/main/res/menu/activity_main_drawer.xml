@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/id_karan"
+            android:icon="@drawable/ic_audiotrack_light"
+            android:title="@string/qaran" />
+        <item
+            android:id="@+id/id_tajvid"
+            android:icon="@android:drawable/ic_menu_call"
+            android:title="@string/tajvid" />
+        <item
+            android:id="@+id/id_hadis"
+            android:icon="@android:drawable/ic_lock_idle_lock"
+            android:title="@string/hadis" />
+        <item
+            android:id="@+id/id_podelit"
+            android:icon="@android:drawable/ic_menu_share"
+            android:title="@string/podelit" />
+        <item
+            android:id="@+id/id_otsenit"
+            android:icon="@drawable/ic_checked_checkbox"
+            android:title="@string/otsenit" />
+
+    </group>
+
+</menu>

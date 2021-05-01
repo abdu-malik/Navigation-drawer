@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">Al-Qaran Al-Karim</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Священный Коран</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройка</string>
+    <string name="text_settings">Настройки текста</string>
+    <string name="main_text_size">Размер текст</string>
+
+
+    <string name="qaran">Избранное</string>
+    <string name="tajvid">Тачвид</string>
+    <string name="hadis">Хадис</string>
+    <string name="podelit">Поделиться</string>
+    <string name="otsenit">Оценить</string>
+    <string name="qaran_1">Мавзуи 1. Мафхуми системаи оператсиони.
+Системаи оператсиони (СО) – ин пайдарпайи бо тартиби
+барномаимахои системавии идоракунанда мебошад, ки якчоя бо
+массивхои иттилоотии зарури мебошад, ки барои банакшагирии
+ичроиши программахои истифодабаранда ва идоракунии тамоми
+захирахои МЭХ (программахо, кимматхо, тачхизотхо ва гайра) бо
+максади ба истифода пешниход кардани имконияти самаранок хал
+намудани масъалахои бо истилоххои системаи иттилооти ишорашуда
+тартиб дода шудааст.
+</string>
+    <string name="qaran_2">اللهُمَّ اكْفِنِي بِحَلالِكَ عَنْ حَرامكْ، وَأَغْنِني بِفَضْلِكَ عَمَّنْ سِواك</string>
+    <string name="qaran_3">каран 3</string>
+    <string name="qaran_4">список каран 4</string>
+    <string name="qaran_5">список каран 5</string>
+    <string name="qaran_6">список каран 2</string>
+    <string name="qaran_7">список каран 3</string>
+    <string name="qaran_8">список каран 4</string>
+    <string name="qaran_9">список каран 5</string>
+    <string name="qaran_10">список каран 2</string>
+    <string name="qaran_11">список каран 3</string>
+    <string name="qaran_12">список каран 4</string>
+    <string name="qaran_13">список каран 5</string>
+    <string name="qaran_14">список каран 2</string>
+    <string name="qaran_15">список каран 3</string>
+    <string name="qaran_16">список каран 4</string>
+    <string name="qaran_17">список каран 5</string>
+    <string name="qaran_18">список каран 2</string>
+    <string name="qaran_19">список каран 3</string>
+    <string name="qaran_20">список каран 4</string>
+    <string name="qaran_21">список каран 5</string>
+    <string name="qaran_22">список каран 2</string>
+    <string name="qaran_23">список каран 3</string>
+    <string name="qaran_24">список каран 4</string>
+    <string name="qaran_25">список каран 5</string>
+    <string name="qaran_26">список каран 2</string>
+    <string name="qaran_27">список каран 3</string>
+    <string name="qaran_28">список каран 4</string>
+    <string name="qaran_29">список каран 5</string>
+    <string name="qaran_30">список каран 2</string>
+    <string name="qaran_31">список каран 3</string>
+    <string name="qaran_32">список каран 4</string>
+    <string name="qaran_33">список каран 5</string>
+    <string name="qaran_34">список каран 2</string>
+    <string name="qaran_35">список каран 3</string>
+    <string name="qaran_36">список каран 4</string>
+    <string name="qaran_37">список каран 5</string>
+    <string name="qaran_38">список каран 2</string>
+    <string name="qaran_39">список каран 3</string>
+    <string name="qaran_40">список каран 4</string>
+    <string name="qaran_41">список каран 5</string>
+    <string name="qaran_42">список каран 2</string>
+    <string name="qaran_43">список каран 3</string>
+    <string name="qaran_44">список каран 4</string>
+    <string name="qaran_45">список каран 5</string>
+    <string name="qaran_46">список каран 2</string>
+    <string name="qaran_47">список каран 3</string>
+    <string name="qaran_48">список каран 4</string>
+    <string name="qaran_49">список каран 5</string>
+    <string name="qaran_50">список каран 2</string>
+    <string name="qaran_51">список каран 3</string>
+    <string name="qaran_52">список каран 4</string>
+    <string name="qaran_53">список каран 5</string>
+    <string name="qaran_54">список каран 2</string>
+    <string name="qaran_55">список каран 3</string>
+    <string name="qaran_56">список каран 4</string>
+    <string name="qaran_57">список каран 5</string>
+    <string name="qaran_58">список каран 2</string>
+    <string name="qaran_59">список каран 3</string>
+    <string name="qaran_60">список каран 4</string>
+    <string name="qaran_61">список каран 5</string>
+    <string name="qaran_62">список каран 2</string>
+    <string name="qaran_63">список каран 3</string>
+    <string name="qaran_64">список каран 4</string>
+    <string name="qaran_65">список каран 5</string>
+    <string name="qaran_66">список каран 5</string>
+    <string name="qaran_67">список каран 2</string>
+    <string name="qaran_68">список каран 3</string>
+    <string name="qaran_69">список каран 4</string>
+    <string name="qaran_70">список каран 5</string>
+    <string name="qaran_71">список каран 2</string>
+    <string name="qaran_72">список каран 3</string>
+    <string name="qaran_73">список каран 4</string>
+    <string name="qaran_74">список каран 5</string>
+    <string name="qaran_75">список каран 2</string>
+    <string name="qaran_76">список каран 3</string>
+    <string name="qaran_77">список каран 4</string>
+    <string name="qaran_78">список каран 5</string>
+    <string name="qaran_79">список каран 2</string>
+    <string name="qaran_80">список каран 3</string>
+    <string name="qaran_81">список каран 4</string>
+    <string name="qaran_82">список каран 5</string>
+    <string name="qaran_83">список каран 2</string>
+    <string name="qaran_84">список каран 3</string>
+    <string name="qaran_85">список каран 4</string>
+    <string name="qaran_86">список каран 5</string>
+    <string name="qaran_87">список каран 2</string>
+    <string name="qaran_88">список каран 3</string>
+    <string name="qaran_89">список каран 4</string>
+    <string name="qaran_90">список каран 5</string>
+    <string name="qaran_91">список каран 2</string>
+    <string name="qaran_92">список каран 3</string>
+    <string name="qaran_93">список каран 4</string>
+    <string name="qaran_94">список каран 5</string>
+    <string name="qaran_95">список каран 2</string>
+    <string name="qaran_96">список каран 3</string>
+    <string name="qaran_97">список каран 4</string>
+    <string name="qaran_98">список каран 5</string>
+    <string name="qaran_99">список каран 2</string>
+    <string name="qaran_100">список каран 3</string>
+    <string name="qaran_101">список каран 4</string>
+    <string name="qaran_102">список каран 5</string>
+    <string name="qaran_103">список каран 2</string>
+    <string name="qaran_104">список каран 3</string>
+    <string name="qaran_105">список каран 4</string>
+    <string name="qaran_106">список каран 5</string>
+    <string name="qaran_107">список каран 3</string>
+    <string name="qaran_108">список каран 4</string>
+    <string name="qaran_109">список каран 5</string>
+    <string name="qaran_110">список каран 2</string>
+    <string name="qaran_111">список каран 3</string>
+    <string name="qaran_112">список каран 4</string>
+    <string name="qaran_113">список каран 5</string>
+    <string name="qaran_114">список каран 5</string>
+
+
+    <string name="tajvid_1">список тачвид 1</string>
+    <string name="tajvid_2">список тачвид 2</string>
+    <string name="tajvid_3">список тачвид 3</string>
+    <string name="tajvid_4">список тачвид 4</string>
+    <string name="tajvid_5">список тачвид 5</string>
+
+
+    <string name="hadis_1">список хадис 1</string>
+    <string name="hadis_2">список хадис 2</string>
+    <string name="hadis_3">список хадис 3</string>
+    <string name="hadis_4">список хадис 4</string>
+    <string name="hadis_5">список хадис 5</string>
+
+    <string name="podelit_1">список поделится </string>
+
+    <string name="otsenit_1">список оценит </string>
+
+
+
+</resources>
